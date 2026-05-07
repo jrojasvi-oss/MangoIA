@@ -1,0 +1,5 @@
+names:
+  0: Antracnosis_Lesion
+path: C:\Users\juanv\Desktop\Analisis mango\YOLO_Antracnosis_Dataset
+train: images/train
+val: images/train

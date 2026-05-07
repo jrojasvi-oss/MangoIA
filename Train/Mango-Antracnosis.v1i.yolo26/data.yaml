@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Mango-Antracnosis', 'Mango-afectado', 'Mango-area-afectada', 'Mango-sano']
+
+roboflow:
+  workspace: juans-workspace-tc3i2
+  project: mango-antracnosis
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/juans-workspace-tc3i2/mango-antracnosis/dataset/1
