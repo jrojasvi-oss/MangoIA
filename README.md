@@ -44,6 +44,13 @@ python autonomous_anthracnose_pipeline.py
 
 Este script procesará las imágenes en la carpeta configurada, generará máscaras de severidad y exportará un consolidado estadístico (`REPORTE_EPIDEMIOLOGICO_APLIMAN.csv`).
 
+### 🖥️ Interfaz Gráfica (GUI)
+Si prefieres una experiencia visual con **arrastrar y soltar (Drag & Drop)**:
+```bash
+python app_gui.py
+```
+Esto abrirá una interfaz en tu navegador donde puedes cargar fotos y ver los resultados instantáneamente.
+
 ## 🧪 Metodología Científica
 El pipeline sigue un flujo de 4 etapas:
 1.  **Detección**: Localización del fruto.
