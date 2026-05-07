@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "V."
+  given-names: "Juan"
+title: "MangoIA: Autonomous Anthracnose Diagnosis Pipeline"
+version: 3.0.0
+doi: 10.5281/zenodo.placeholder # Aquí podrás poner un DOI real en el futuro
+date-released: 2026-05-07
+url: "https://github.com/jrojasvi-oss/MangoIA"
+keywords:
+  - "Mango"
+  - "Anthracnose"
+  - "Computer Vision"
+  - "YOLO v26"
+  - "SAM"
+  - "Plant Pathology"
+  - "Precision Agriculture"
+license: MIT
