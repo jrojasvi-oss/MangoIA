@@ -52,5 +52,8 @@ El pipeline sigue un flujo de 4 etapas:
 4.  **Reporte**: Generación de métricas de incidencia y severidad.
 
 ---
-**Desarrollado para la convocatoria HERMES - Proyecto CacaoIA / Mango.**
-Colaboradores: Juan V., AGROSAVIA, Virginia Tech.
+**Desarrollado para la convocatoria HERMES - Proyecto Mango.**  
+Colaboradores: Juan V. y la comunidad de código abierto.
+
+> [!IMPORTANT]
+> El conocimiento es libre, así como el código debe ser accesible, gratuito y comprensible.
