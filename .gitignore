@@ -1,0 +1,25 @@
+# Modelos (Muy pesados para GitHub)
+*.pt
+models/*.pt
+
+# Datos y Zips
+*.zip
+data/
+fruto/
+*.xlsx
+*.csv
+
+# Resultados (Opcional, pero recomendado ignorar si son masivos)
+# results/
+media/*.mp4
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+.vscode/
+.idea/

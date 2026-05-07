@@ -1,0 +1,11 @@
+opencv-python
+numpy
+pandas
+ultralytics
+matplotlib
+seaborn
+scipy
+openpyxl
+torch
+torchvision
+torchaudio
